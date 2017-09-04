@@ -10,7 +10,18 @@ var articleone = {
     title: 'Article one | Surya',
     heading: 'Article one',
     date: 'sep 5, 2017',
-    content:  ` </div>
+    content:  `  <style>.container{
+    max-width: 800px;
+    margin: 0 auto;
+    color: #2fb3a7;
+    font-family: sans-serif;
+    padding-top: 50px;
+    padding-left: 30;
+    padding-right: 30;
+    </style>
+    <body>
+    <div class="container">
+    </div>
     <div>
         <p>
             This is the content for my first article. This is the content for my first article.
