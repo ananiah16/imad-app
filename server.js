@@ -10,7 +10,7 @@ var articleone = {
     title: 'Article one | Surya',
     heading: 'Article one',
     date: 'sep 5, 2017',
-    Content: 'This is the content for my first article. This is the content for my first article.This is the content for my first article. This is the content for my first article.This is the content for my first article. This is the content for my first article.This is the content for my first article. This is the content for my first article.This is the content for my first article. This is the content for my first article.This is the content for my first article. This is the content for my first article.'
+    content: 'This is the content for my first article. This is the content for my first article.This is the content for my first article. This is the content for my first article.This is the content for my first article. This is the content for my first article.This is the content for my first article. This is the content for my first article.This is the content for my first article. This is the content for my first article.This is the content for my first article. This is the content for my first article.'
 };
 
 function createTemplate (data) {
