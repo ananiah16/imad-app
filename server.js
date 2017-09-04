@@ -30,7 +30,8 @@ var title = data.title;
 var heading = data.heading;
 var date=data.date
 var content =data.content;
-var htmltemplate =  `margin: 0 auto;
+var htmltemplate =  ` <style>.container{
+    margin: 0 auto;
     color: #2fb3a7;
     font-family: sans-serif;
     padding-top: 50px;
