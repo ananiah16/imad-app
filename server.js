@@ -10,7 +10,7 @@ var articles ={
 articleone :{
     title: 'Article one | Surya',
     heading: 'Article one',
-    date: 'sep 5, 2017',
+    date: 'sep 4, 2017',
     content:  `  <style>.container{
     max-width: 800px;
     margin: 0 auto;
@@ -42,15 +42,7 @@ articleone :{
 articletwo :{ title: 'Article two | Surya',
     heading: 'Article two',
     date: 'sep 5, 2017',
-    content:  `  <style>.container{
-    max-width: 800px;
-    margin: 0 auto;
-    color: #2fb3a7;
-    font-family: sans-serif;
-    padding-top: 50px;
-    padding-left: 30;
-    padding-right: 30;
-    </style>
+    content:  `  
     <body>
     <div class="container">
     </div>
@@ -62,16 +54,8 @@ articletwo :{ title: 'Article two | Surya',
     </div>`,},
 articlethree : {title: 'Article three | Surya',
     heading: 'Article three',
-    date: 'sep 5, 2017',
-    content:  `  <style>.container{
-    max-width: 800px;
-    margin: 0 auto;
-    color: #2fb3a7;
-    font-family: sans-serif;
-    padding-top: 50px;
-    padding-left: 30;
-    padding-right: 30;
-    </style>
+    date: 'sep 6, 2017',
+    content:  `  
     <body>
     <div class="container">
     </div>
