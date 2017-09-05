@@ -11,15 +11,7 @@ var articles ={
     title: 'Article one | Surya',
     heading: 'Article one',
     date: 'sep 4, 2017',
-    content:  `  <style>.container{
-    max-width: 800px;
-    margin: 0 auto;
-    color: #2fb3a7;
-    font-family: sans-serif;
-    padding-top: 50px;
-    padding-left: 30;
-    padding-right: 30;
-    </style>
+    content:  ` 
     <body>
     <div class="container">
     </div>
