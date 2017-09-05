@@ -68,6 +68,16 @@ var content =data.content;
 var htmltemplate =  `
   </head> 
   <link href="/ui/style.css" rel="stylesheet" />
+  <style>.container{
+    max-width: 800px;
+    margin: 0 auto;
+    color: #2fb3a7;
+    font-family: sans-serif;
+    padding-top: 50px;
+    padding-left: 30;
+    padding-right: 30;
+} 
+</style>
     <body>
     <div class="container">
     <div>
