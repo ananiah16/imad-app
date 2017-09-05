@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 
 var articles ={
-articleone = {
+articleone :{
     title: 'Article one | Surya',
     heading: 'Article one',
     date: 'sep 5, 2017',
@@ -39,7 +39,49 @@ articleone = {
     </div>
     </div>`,
 },
-
+articletwo :{ title: 'Article two | Surya',
+    heading: 'Article two',
+    date: 'sep 5, 2017',
+    content:  `  <style>.container{
+    max-width: 800px;
+    margin: 0 auto;
+    color: #2fb3a7;
+    font-family: sans-serif;
+    padding-top: 50px;
+    padding-left: 30;
+    padding-right: 30;
+    </style>
+    <body>
+    <div class="container">
+    </div>
+    <div>
+        <p>
+            This is the content for my second article. 
+        </p>
+    </div>
+    </div>`,},
+articlethree : {title: 'Article three | Surya',
+    heading: 'Article three',
+    date: 'sep 5, 2017',
+    content:  `  <style>.container{
+    max-width: 800px;
+    margin: 0 auto;
+    color: #2fb3a7;
+    font-family: sans-serif;
+    padding-top: 50px;
+    padding-left: 30;
+    padding-right: 30;
+    </style>
+    <body>
+    <div class="container">
+    </div>
+    <div>
+        <p>
+            This is the content for my third article. 
+        </p>
+    </div>
+    </div>`,}
+};
 
 function createTemplate (data) {
     
