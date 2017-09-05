@@ -13,6 +13,7 @@ var articles ={
     date: 'sep 4, 2017',
     content:  ` 
     <body>
+<link href="/ui/style.css" rel="stylesheet" />
     <div class="container">
     </div>
     <div>
