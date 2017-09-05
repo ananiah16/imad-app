@@ -67,7 +67,7 @@ var date=data.date
 var content =data.content;
 var htmltemplate =  `
   </head> 
-  
+  <link href="/ui/style.css" rel="stylesheet" />
     <body>
     <div class="container">
     <div>
